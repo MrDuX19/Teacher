@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sauga\\Downloads\\biweekly4\\final biweekly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01991086-7AFA-4335-A295-05D3FD4D3B0F}|final biweekly\\final biweekly.csproj|c:\\users\\sauga\\downloads\\biweekly4\\final biweekly\\final biweekly\\sydneyhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01991086-7AFA-4335-A295-05D3FD4D3B0F}|final biweekly\\final biweekly.csproj|solutionrelative:final biweekly\\sydneyhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01991086-7AFA-4335-A295-05D3FD4D3B0F}|final biweekly\\final biweekly.csproj|c:\\users\\sauga\\downloads\\biweekly4\\final biweekly\\final biweekly\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01991086-7AFA-4335-A295-05D3FD4D3B0F}|final biweekly\\final biweekly.csproj|solutionrelative:final biweekly\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "assignment.cs",
+              "DocumentMoniker": "C:\\Users\\sauga\\Downloads\\biweekly4\\final biweekly\\final biweekly\\assignment.cs",
+              "RelativeDocumentMoniker": "final biweekly\\assignment.cs",
+              "ToolTip": "C:\\Users\\sauga\\Downloads\\biweekly4\\final biweekly\\final biweekly\\assignment.cs",
+              "RelativeToolTip": "final biweekly\\assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:43:33.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SydneyHotel.cs",
+              "DocumentMoniker": "C:\\Users\\sauga\\Downloads\\biweekly4\\final biweekly\\final biweekly\\SydneyHotel.cs",
+              "RelativeDocumentMoniker": "final biweekly\\SydneyHotel.cs",
+              "ToolTip": "C:\\Users\\sauga\\Downloads\\biweekly4\\final biweekly\\final biweekly\\SydneyHotel.cs",
+              "RelativeToolTip": "final biweekly\\SydneyHotel.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:30:35.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

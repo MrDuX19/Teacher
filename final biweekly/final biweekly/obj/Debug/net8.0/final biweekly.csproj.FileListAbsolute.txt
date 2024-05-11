@@ -1,0 +1,30 @@
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.AssemblyInfoInputs.cache
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.AssemblyInfo.cs
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.csproj.CoreCompileInputs.cache
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.RazorAssemblyInfo.cache
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.RazorAssemblyInfo.cs
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\appsettings.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\final biweekly.staticwebassets.runtime.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\final biweekly.exe
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\final biweekly.deps.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\final biweekly.runtimeconfig.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\final biweekly.dll
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\bin\Debug\net8.0\final biweekly.pdb
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\staticwebassets\msbuild.final biweekly.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\staticwebassets\msbuild.build.final biweekly.props
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.final biweekly.props
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.final biweekly.props
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\scopedcss\bundle\final biweekly.styles.css
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\scopedcss\projectbundle\final biweekly.bundle.scp.css
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.dll
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\refint\final biweekly.dll
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.pdb
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\final biweekly.genruntimeconfig.cache
+C:\Users\sauga\Downloads\biweekly4\final biweekly\final biweekly\obj\Debug\net8.0\ref\final biweekly.dll
