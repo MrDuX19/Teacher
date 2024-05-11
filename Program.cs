@@ -83,6 +83,7 @@ namespace SydneyHotel
             Console.WriteLine($"The customer spending most is {maxrd.customerName} ${maxrd.totalPrice}");
             Console.WriteLine($"The customer spending least is {minrd.customerName} ${minrd.totalPrice}");
             Console.WriteLine($"Press any ket to continue....To push changes in github");
+            Console.WriteLine($"hello task 5 done");
 
             Console.ReadLine();
 
